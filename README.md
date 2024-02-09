@@ -44,7 +44,8 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 ## Contact ℹ️
 
 For questions or feedback, feel free to reach out to:
-1.[Kuljeet Kaur] at [kuljeetkaur2021@gmail.com]
+1.[Kuljeet Kaur] at [kuljeetkaurgill779@gmail.com]
+
 2.[Abhangkarode] at [abhangkarode09@gmail.com]
 
 Let's work together to make a positive impact on our communities by reducing food waste and helping those in need!
