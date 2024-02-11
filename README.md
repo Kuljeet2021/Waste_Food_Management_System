@@ -31,7 +31,7 @@ Food waste is a significant global problem, while many people struggle with food
 
 
 ## Contributed By ✨
-- Kuljeet Kaur
+- Kuljeet Kaur Gill
 - Abhang Karode
 - Abhishek Mankar
 - Shrikant Asatkar
@@ -44,7 +44,7 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 ## Contact ℹ️
 
 For questions or feedback, feel free to reach out to:
-1.[Kuljeet Kaur] at [kuljeetkaurgill779@gmail.com]
+1.[Kuljeet Kaur Gill] at [kuljeetkaurgill779@gmail.com]
 
 2.[Abhangkarode] at [abhangkarode09@gmail.com]
 
